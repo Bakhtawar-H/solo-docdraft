@@ -1,4 +1,4 @@
-# solo-docdraft
+# solo-docs
 
 
 Beginner's Guide to the Project [for Mac Users]
