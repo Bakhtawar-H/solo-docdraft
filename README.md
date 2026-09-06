@@ -1,8 +1,5 @@
 # solo-docdraft
 
-This is a draft repository.
-
-#
 
 Beginner's Guide to the Project [for Mac Users]
 This guide mentions all the steps that you need to take to complete the assigned tasks within the project. 
